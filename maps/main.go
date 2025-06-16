@@ -6,6 +6,8 @@ type Color map[string]string
 
 func main() {
 
+	const x int64 = 10
+
 	// var xColor Color
 
 	// mapColor := make(Color)
